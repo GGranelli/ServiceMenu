@@ -1,0 +1,3366 @@
+{
+    "version": "2.8.7",
+    "nodes": [
+        {
+            "nodeId": 0,
+            "nodeName": "RICARICHE",
+            "nodeType": "group",
+            "groupType": "menuTitle",
+            "status": "ACTIVE",
+            "startValidityTs": 1527066836000,
+            "endValidityTs": 1727066836000,
+            "nodes": [
+                {
+                    "nodeId": 0,
+                    "nodeName": "Telefonia Mobile",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 369,
+                            "nodeName": "ILIAD",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ILIAD",
+                            "resource": {
+                                "id": 12244,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 406,
+                            "nodeName": "WIND",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 12098,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 407,
+                            "nodeName": "TIM",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 18070,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 413,
+                            "nodeName": "VODAFONE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VODAFONE",
+                            "resource": {
+                                "id": 12097,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 368,
+                            "nodeName": "HO. MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VODAFONE LEAN HO MOBILE",
+                            "resource": {
+                                "id": 12096,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 408,
+                            "nodeName": "H3G",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP 3 Tre h3g",
+                            "resource": {
+                                "id": 12093,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 130,
+                            "nodeName": "POSTE MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "POSTE MOBI",
+                            "resource": {
+                                "id": 12094,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 40,
+                            "nodeName": "LYCA MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "LYCA MOBIL",
+                            "resource": {
+                                "id": 12199,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 352,
+                            "nodeName": "LYCAMOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "LYCA MOBIL",
+                            "resource": {
+                                "id": 11543,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "RICARICA",
+                            "nodeType": "landingPage",
+                            "status": "ACTIVE",
+                            "landingPageType": "internationalMobilePhonesTopUps",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 5030,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 361,
+                            "nodeName": "KENA",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "KENA_MOBIL",
+                            "resource": {
+                                "id": 12238,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 60,
+                            "nodeName": "COOP VOCE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "COOP VOCE",
+                            "resource": {
+                                "id": 12100,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 353,
+                            "nodeName": "FASTWEB",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 12232,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 146,
+                            "nodeName": "DIGI MOBIL",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "DIGI MOBIL",
+                            "resource": {
+                                "id": 12256,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 55,
+                            "nodeName": "UNO MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "UNO MOBILE",
+                            "resource": {
+                                "id": 12207,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 120,
+                            "nodeName": "DAILY TELECOM",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "DAILY TELE",
+                            "resource": {
+                                "id": 12252,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 15,
+                            "nodeName": "TISCALI MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 18778,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 317,
+                            "nodeName": "CUBACEL",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CUBACEL",
+                            "resource": {
+                                "id": 12209,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 325,
+                            "nodeName": "NAUTA",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "RECARGA NAUTA",
+                            "resource": {
+                                "id": 12213,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 374,
+                            "nodeName": "REINCARCA MOBIL RICARICHE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "REINCARCA ",
+                            "resource": {
+                                "id": 12251,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 372,
+                            "nodeName": "NOITEL RICARICHE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "NOITEL RIC",
+                            "resource": {
+                                "id": 597,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 326,
+                            "nodeName": "WEBCOM",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "WEBCOM",
+                            "resource": {
+                                "id": 12214,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 358,
+                            "nodeName": "RABONA_MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "RABONA_MOB",
+                            "resource": {
+                                "id": 12236,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 366,
+                            "nodeName": "OPTIMA",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "OPTIMA",
+                            "resource": {
+                                "id": 12242,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 359,
+                            "nodeName": "NT_MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "NT_MOBILE",
+                            "resource": {
+                                "id": 598,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 373,
+                            "nodeName": "Decatel",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "DECATEL RI",
+                            "resource": {
+                                "id": 12250,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 360,
+                            "nodeName": "VECTONE MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VECTONE_MO",
+                            "resource": {
+                                "id": 12237,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 367,
+                            "nodeName": "YEPINGO",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "YEPINGO",
+                            "resource": {
+                                "id": 12243,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 414,
+                            "nodeName": "GREENTELECOM",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BTGT",
+                            "resource": {
+                                "id": 12111,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 161,
+                            "nodeName": "BT MOBILE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BTGT British Telecom BT Mobile",
+                            "resource": {
+                                "id": 12107,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 307,
+                            "nodeName": "TERRA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TERRA",
+                            "resource": {
+                                "id": 12205,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 306,
+                            "nodeName": "TALK360",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TALK360",
+                            "resource": {
+                                "id": 12204,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 2,
+                    "nodeName": "Carte Bancarie",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 418,
+                            "nodeName": "UNICREDIT",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "UNICREDIT",
+                            "resource": {
+                                "id": 623,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 404,
+                            "nodeName": "QUI MULTIBANCA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 13346,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 405,
+                            "nodeName": "CARTASI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PC",
+                            "resource": {
+                                "id": 12258,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 410,
+                            "nodeName": "CARTASI VODAF",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PC",
+                            "resource": {
+                                "id": 552,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 162,
+                            "nodeName": "PIN ON DEMAND DELIVERY AND ACTIVATION",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PIN ON DEM Paysafe",
+                            "resource": {
+                                "id": 13348,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 316,
+                            "nodeName": "RICARICA SOLDO",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "RICARICA S",
+                            "resource": {
+                                "id": 18354,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 409,
+                            "nodeName": "PLUTON",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PC",
+                            "resource": {
+                                "id": 13350,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 411,
+                            "nodeName": "RICARICHE BDS",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BDS",
+                            "resource": {
+                                "id": 13344,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 402,
+                            "nodeName": "COMPASS PAY",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1528270179000,
+                            "endValidityTs": 1591428579000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 18783,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 363,
+                            "nodeName": "CARTE COMPASSPAY ADV",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CARTE COMP",
+                            "resource": {
+                                "id": 12240,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 401,
+                            "nodeName": "CARTE FINDOMESTIC",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "FD",
+                            "resource": {
+                                "id": 18782,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 354,
+                            "nodeName": "TSI",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP TSI Ticket",
+                            "resource": {
+                                "id": 13354,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 3,
+                    "nodeName": "Sisal.it",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 0,
+                            "nodeName": "MatchPoint",
+                            "nodeType": "group",
+                            "groupType": "tabGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 19455,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 19,
+                                    "nodeName": "RICARICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "MPRC"
+                                },
+                                {
+                                    "nodeId": 412,
+                                    "nodeName": "APERTURA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "MPRG"
+                                },
+                                {
+                                    "nodeId": 34,
+                                    "nodeName": "PRELIEVO",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "MPPR"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 4,
+                    "nodeName": "Carte Telefoniche",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 0,
+                            "nodeName": "EDICARD",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 19798,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 10,
+                                    "nodeName": "EDICARD AFRICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EDICARD AF",
+                                    "resource": {
+                                        "id": 19799,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 11,
+                                    "nodeName": "EDICARD ASIA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EDICARD AS",
+                                    "resource": {
+                                        "id": 19800,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 12,
+                                    "nodeName": "EDICARD GLOBAL",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EDICARD GL",
+                                    "resource": {
+                                        "id": 19801,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 13,
+                                    "nodeName": "EDICARD LATINA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EDICARD LA",
+                                    "resource": {
+                                        "id": 19802,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 14,
+                                    "nodeName": "EDICARD EUROu0026USA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EDICARD EU",
+                                    "resource": {
+                                        "id": 19803,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 302,
+                            "nodeName": "AMUNDO CUBA",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AMUNDO CUB",
+                            "resource": {
+                                "id": 12202,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 30,
+                            "nodeName": "HAPPINESS PLUS",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "HAPPINESS ",
+                            "resource": {
+                                "id": 12306,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "TELECOM CARTE",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6669,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 116,
+                                    "nodeName": "EASY AFRICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EASY AFRIC",
+                                    "resource": {
+                                        "id": 13416,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 117,
+                                    "nodeName": "EASY ASIA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EASY ASIA",
+                                    "resource": {
+                                        "id": 13417,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 118,
+                                    "nodeName": "EASY EAST EUROPE",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EASY EAST ",
+                                    "resource": {
+                                        "id": 13418,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 119,
+                                    "nodeName": "EASY SOUTH AMERICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EASY SOUTH",
+                                    "resource": {
+                                        "id": 13419,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 315,
+                                    "nodeName": "WELCOME EXPO",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "WELCOME",
+                                    "resource": {
+                                        "id": 13428,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 2,
+                            "nodeName": "SISAL CALLYOU",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 12352,
+                                "type": "image",
+                                "version": "1.1.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 0,
+                                    "nodeName": "Africa",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13334,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 176,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-AF"
+                                        },
+                                        {
+                                            "nodeId": 176,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT_CLIENT_CODE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-AF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 1,
+                                    "nodeName": "Asia",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13335,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 177,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-AS"
+                                        },
+                                        {
+                                            "nodeId": 177,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT_CLIENT_CODE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-AS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 2,
+                                    "nodeName": "Global",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13337,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 178,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-GL"
+                                        },
+                                        {
+                                            "nodeId": 178,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT_CLIENT_CODE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-GL"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 3,
+                                    "nodeName": "Latina",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13338,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 179,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-LA"
+                                        },
+                                        {
+                                            "nodeId": 179,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT_CLIENT_CODE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-LA"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 4,
+                                    "nodeName": "EU-USA",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13336,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 180,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-EU"
+                                        },
+                                        {
+                                            "nodeId": 180,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "PRODUCT_CLIENT_CODE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "CALLYOU-EU"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "RICARICHE EUTELIA",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6671,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 0,
+                                    "nodeName": "EUTELIA AFRICA",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13422,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 21,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "ACTIVATION",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AF"
+                                        },
+                                        {
+                                            "nodeId": 21,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "RECHARGE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AF"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 1,
+                                    "nodeName": "EUTELIA ASIA",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13423,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 22,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "ACTIVATION",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AS"
+                                        },
+                                        {
+                                            "nodeId": 22,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "RECHARGE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AS"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 2,
+                                    "nodeName": "EUTELIA GLOBAL",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13424,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 23,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "ACTIVATION",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA GL"
+                                        },
+                                        {
+                                            "nodeId": 23,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "RECHARGE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA GL"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 3,
+                                    "nodeName": "EUTELIA AMERICA",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13425,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 24,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "ACTIVATION",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AM"
+                                        },
+                                        {
+                                            "nodeId": 24,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "RECHARGE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA AM"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "nodeId": 4,
+                                    "nodeName": "EUTELIA IT-OCSE",
+                                    "nodeType": "group",
+                                    "groupType": "tabGroup",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13437,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    },
+                                    "nodes": [
+                                        {
+                                            "nodeId": 25,
+                                            "nodeName": "ATTIVAZIONE",
+                                            "nodeType": "service",
+                                            "flowType": "ACTIVATION",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA OC"
+                                        },
+                                        {
+                                            "nodeId": 25,
+                                            "nodeName": "RICARICA",
+                                            "nodeType": "service",
+                                            "flowType": "RECHARGE",
+                                            "status": "ACTIVE",
+                                            "startValidityTs": 1527066836000,
+                                            "endValidityTs": 1727066836000,
+                                            "tag": "EUTELIA OC"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 27,
+                            "nodeName": "ETNICOM",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ETNICOM",
+                            "resource": {
+                                "id": 12305,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "ICTCARD MENÙ",
+                            "nodeType": "group",
+                            "groupType": "tabGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 12353,
+                                "type": "image",
+                                "version": "1.1.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 322,
+                                    "nodeName": "ATTIVAZIONE",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ICTCARD"
+                                },
+                                {
+                                    "nodeId": 322,
+                                    "nodeName": "RICARICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRODUCT_CLIENT_CODE",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ICTCARD"
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 300,
+                            "nodeName": "PLUSONE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PLUSONE",
+                            "resource": {
+                                "id": 12200,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 138,
+                            "nodeName": "TELETU",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TELETU",
+                            "resource": {
+                                "id": 12253,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 8,
+                    "nodeName": "Codici di Acquisto",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 349,
+                            "nodeName": "AMAZON CASH",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AMAZON CAS",
+                            "resource": {
+                                "id": 12228,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 350,
+                            "nodeName": "AMAZON",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CP",
+                            "resource": {
+                                "id": 12229,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 355,
+                            "nodeName": "ITUNES",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ITUNES APPLESTORE",
+                            "resource": {
+                                "id": 13400,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 375,
+                            "nodeName": "SPOTIFY",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SPOTIFY",
+                            "resource": {
+                                "id": 17633,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 356,
+                            "nodeName": "FLIXBUS",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "FLIXBUS",
+                            "resource": {
+                                "id": 12234,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 376,
+                            "nodeName": "XBOX",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "XBOX",
+                            "resource": {
+                                "id": 17634,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 378,
+                            "nodeName": "PLAYSTATION PLUS",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PLAYSTATION PLUS",
+                            "resource": {
+                                "id": 17636,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 379,
+                            "nodeName": "PLAYSTATION STORE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PLAYSTATION STORE",
+                            "resource": {
+                                "id": 17637,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 377,
+                            "nodeName": "NINTENDO",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "NINTENDO",
+                            "resource": {
+                                "id": 17635,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 357,
+                            "nodeName": "VOLAGRATIS",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VOLAGRATIS",
+                            "resource": {
+                                "id": 12235,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 327,
+                            "nodeName": "SALABAM",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SALABAM",
+                            "resource": {
+                                "id": 12215,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 5,
+                    "nodeName": "Pay TV",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 154,
+                            "nodeName": "SKY RICARICHE",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SKY PRIMAF",
+                            "resource": {
+                                "id": 613,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 362,
+                            "nodeName": "NETFLIX",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "NETFLIX",
+                            "resource": {
+                                "id": 12239,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 305,
+                            "nodeName": "MEDIASET INFINITY",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MEDIASET I",
+                            "resource": {
+                                "id": 12203,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 323,
+                            "nodeName": "CHILI TV",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CHILI TV",
+                            "resource": {
+                                "id": 553,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 7,
+                    "nodeName": "Altre Ricariche",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 417,
+                            "nodeName": "BILL",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BILL",
+                            "resource": {
+                                "id": 19336,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 31,
+                            "nodeName": "TELEPASS RICAR.",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TELEPASS",
+                            "resource": {
+                                "id": 12198,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 163,
+                            "nodeName": "730 E DINTORNI - PEC",
+                            "nodeType": "service",
+                            "flowType": "PRODUCT",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "730 E DINT",
+                            "resource": {
+                                "id": 12260,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nodeId": 0,
+            "nodeName": "PAGAMENTI",
+            "nodeType": "group",
+            "groupType": "menuTitle",
+            "status": "ACTIVE",
+            "startValidityTs": 1527066836000,
+            "endValidityTs": 1727066836000,
+            "nodes": [
+                {
+                    "nodeId": 0,
+                    "nodeName": "Pagopa, bollo e tributi",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 216,
+                            "nodeName": "DIGITPA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "DP",
+                            "resource": {
+                                "id": 12279,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 150,
+                            "nodeName": "EQUITALIA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "EQUITALIA",
+                            "resource": {
+                                "id": 13342,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 99,
+                            "nodeName": "MULTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MULTE Servizio Pagamento Multe",
+                            "resource": {
+                                "id": 12126,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 79,
+                            "nodeName": "RECUP REGIONE LAZIO",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "RECUP LAZI",
+                            "resource": {
+                                "id": 12224,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 267,
+                            "nodeName": "MULTE MILANO BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MULTE MILA",
+                            "resource": {
+                                "id": 13345,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 71,
+                            "nodeName": "SORIS 2",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SORIS 2",
+                            "resource": {
+                                "id": 13355,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 211,
+                            "nodeName": "SOLORI BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SOLORI BOL",
+                            "resource": {
+                                "id": 536,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 194,
+                            "nodeName": "SORIT BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SORIT BOLL",
+                            "resource": {
+                                "id": 12271,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "Bollette Utenze",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 0,
+                            "nodeName": "ENEL MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6656,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 63,
+                                    "nodeName": "ENEL ENERGIA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ENEL ENERG",
+                                    "resource": {
+                                        "id": 13321,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 64,
+                                    "nodeName": "ENEL SERVIZIO ELETTRICO",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ENEL SERVI",
+                                    "resource": {
+                                        "id": 13351,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 208,
+                                    "nodeName": "RIMBORSI ENEL ENERGIA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ENEL ENERG",
+                                    "resource": {
+                                        "id": 13320,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 209,
+                                    "nodeName": "ENEL ELETTRICITAu0027 RIMBORSO",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "NEL ELETTR",
+                                    "resource": {
+                                        "id": 13352,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 84,
+                            "nodeName": "TELECOM ITALIA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TELECOM Tim fisso",
+                            "resource": {
+                                "id": 4948,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 98,
+                            "nodeName": "TIM BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TIM BOLLET",
+                            "resource": {
+                                "id": 4949,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 136,
+                            "nodeName": "MEDIASET Invoices",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MEDIASET I",
+                            "resource": {
+                                "id": 13401,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 5,
+                            "nodeName": "Bollettini Premarcati",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 12349,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 2,
+                                    "nodeName": "STAMPA QUIETANZA",
+                                    "nodeType": "landingPage",
+                                    "status": "ACTIVE",
+                                    "landingPageType": "prePrintedPaymentSlipsPrint",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "resource": {
+                                        "id": 13415,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 1,
+                                    "nodeName": "ANNULLO",
+                                    "nodeType": "landingPage",
+                                    "status": "ACTIVE",
+                                    "landingPageType": "prePrintedPaymentSlipsCancel",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "ESSEDIESSE MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 12302,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 249,
+                                    "nodeName": "ESSEDIESSE RMPP",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ESSEDIESSE",
+                                    "resource": {
+                                        "id": 13421,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 220,
+                                    "nodeName": "ESSEDIESSE BOLLETTINI",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ESSEDIESSE",
+                                    "resource": {
+                                        "id": 13420,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "HERA MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6663,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 93,
+                                    "nodeName": "HERA BOLLETTE",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "HERA BOLLE",
+                                    "resource": {
+                                        "id": 12348,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 210,
+                                    "nodeName": "HERA BOLLETTINI",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "HERA BOLLE",
+                                    "resource": {
+                                        "id": 13438,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "A2A MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6662,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 192,
+                                    "nodeName": "A2A CALORE E SERVIZI BOLLETTE",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "A2A CALORE",
+                                    "resource": {
+                                        "id": 13413,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 171,
+                                    "nodeName": "A2A CICLO IDRICO BOLLETTE",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "A2A CICLO ",
+                                    "resource": {
+                                        "id": 13414,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 157,
+                                    "nodeName": "A2A ENERGIA BOLLETTE",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "A2A ENERGI",
+                                    "resource": {
+                                        "id": 13433,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "ACEA MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6655,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 66,
+                                    "nodeName": "ACEA ATO2",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ACEA ATO2",
+                                    "resource": {
+                                        "id": 13434,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 68,
+                                    "nodeName": "ACEA ATO5",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ACEA ATO5 ",
+                                    "resource": {
+                                        "id": 13435,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 233,
+                                    "nodeName": "ACEA DISTRIBUZIONE",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ACEA DISTR",
+                                    "resource": {
+                                        "id": 13343,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 185,
+                                    "nodeName": "ACEA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "TAG",
+                                    "resource": {
+                                        "id": 13353,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 251,
+                                    "nodeName": "ACEA ENERGIA ELETTRICA LIB.",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ND",
+                                    "resource": {
+                                        "id": 13318,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 252,
+                                    "nodeName": "ACEA ENERGIA - VENDITA GAS",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ND",
+                                    "resource": {
+                                        "id": 13319,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 151,
+                            "nodeName": "ACQUALATINA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ACQUALATIN",
+                            "resource": {
+                                "id": 12259,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 207,
+                            "nodeName": "ACQUEDOTTO DEL FIORA BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "8099999002",
+                            "resource": {
+                                "id": 12277,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 91,
+                            "nodeName": "ACQUEDOTTO LUCANO BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ACQUEDOTTO",
+                            "resource": {
+                                "id": 12227,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 90,
+                            "nodeName": "AIM BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AIM BOLLET",
+                            "resource": {
+                                "id": 12125,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 240,
+                            "nodeName": "AIRC BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AIRC BOLLE",
+                            "resource": {
+                                "id": 12291,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 174,
+                            "nodeName": "BPS 2",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BPS 2",
+                            "resource": {
+                                "id": 499,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 241,
+                            "nodeName": "BNL",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BNL BOLLET",
+                            "resource": {
+                                "id": 12293,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 238,
+                            "nodeName": "CONSAC BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "CONSAC BOL",
+                            "resource": {
+                                "id": 12290,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 206,
+                            "nodeName": "DOLOMITI ENERGIA BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "DOLOMITI E",
+                            "resource": {
+                                "id": 12276,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 170,
+                            "nodeName": "EDISON BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "EDISON BOL",
+                            "resource": {
+                                "id": 12262,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 264,
+                            "nodeName": "ENEL X BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ENEL X BOL",
+                            "resource": {
+                                "id": 12188,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 234,
+                            "nodeName": "ENERXENIA 2",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ENERXENIA ",
+                            "resource": {
+                                "id": 12289,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 193,
+                            "nodeName": "ENGIE BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ENGIE BOLL",
+                            "resource": {
+                                "id": 12270,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 95,
+                            "nodeName": "ENI BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ENI BOLLET",
+                            "resource": {
+                                "id": 12230,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "EON MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 13411,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 190,
+                                    "nodeName": "EON GAS",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EON GAS",
+                                    "resource": {
+                                        "id": 13323,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 189,
+                                    "nodeName": "EON ENERGIA ELETTRICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "EON ENERGI",
+                                    "resource": {
+                                        "id": 13322,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "ESTENERGY MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6659,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 218,
+                                    "nodeName": "ESTENERGY ENERGIA ELETTRICA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ESTENERGY ",
+                                    "resource": {
+                                        "id": 13330,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 217,
+                                    "nodeName": "ESTENERGY GAS",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "ESTENERGY ",
+                                    "resource": {
+                                        "id": 13331,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 239,
+                            "nodeName": "GORI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "GORI BOLLE",
+                            "resource": {
+                                "id": 4,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 0,
+                            "nodeName": "IREN MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6664,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 145,
+                                    "nodeName": "IREN AMBIENTE SPA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "IREN EMILI",
+                                    "resource": {
+                                        "id": 12104,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 128,
+                                    "nodeName": "IREN MERCATO SPA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "IREN MERCA",
+                                    "resource": {
+                                        "id": 13426,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 144,
+                                    "nodeName": "IRETI SPA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "IREN EMILI",
+                                    "resource": {
+                                        "id": 12254,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 242,
+                            "nodeName": "METAMER BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "METAMER BO",
+                            "resource": {
+                                "id": 18781,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 85,
+                            "nodeName": "MONDADORI BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MONDADORI ",
+                            "resource": {
+                                "id": 13349,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 262,
+                            "nodeName": "OPTIMA BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "OPTIMA PAY",
+                            "resource": {
+                                "id": 519,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 215,
+                            "nodeName": "SALERNO ENERGIA BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SALERNO EN",
+                            "resource": {
+                                "id": 12316,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 89,
+                            "nodeName": "SGR SERVIZI BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SGR SERVIZ",
+                            "resource": {
+                                "id": 12226,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 166,
+                            "nodeName": "SORGENIA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SORGENIA",
+                            "resource": {
+                                "id": 12261,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 149,
+                            "nodeName": "TELETU",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TELETU BOL",
+                            "resource": {
+                                "id": 6,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 96,
+                            "nodeName": "TISCALI BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "TISCALI BO",
+                            "resource": {
+                                "id": 12231,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 268,
+                            "nodeName": "UMBRA ACQUE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "UMBRA ACQU",
+                            "resource": {
+                                "id": 12303,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 148,
+                            "nodeName": "VODAFONE BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VODAFONE B",
+                            "resource": {
+                                "id": 7,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 129,
+                            "nodeName": "WIND BOLLETTE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "WIND BOLLE",
+                            "resource": {
+                                "id": 13429,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 187,
+                            "nodeName": "WIND FISSO DEP",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "WIND FISSO",
+                            "resource": {
+                                "id": 13430,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "Bollettini credito al consumo",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 0,
+                            "nodeName": "FINDOMESTIC MENÙ",
+                            "nodeType": "group",
+                            "groupType": "buttonGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 6661,
+                                "type": "image",
+                                "version": "1.0.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 202,
+                                    "nodeName": "FINDOMESTIC BOLLETTINI",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "FINDOMESTI",
+                                    "resource": {
+                                        "id": 18779,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 204,
+                                    "nodeName": "FINDOMESTIC ACCORDI",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "FINDOMESTI",
+                                    "resource": {
+                                        "id": 18780,
+                                        "type": "image",
+                                        "version": "1.0.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 175,
+                            "nodeName": "COMPASS BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "COMPASS BO",
+                            "resource": {
+                                "id": 19436,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 196,
+                            "nodeName": "AGOS BOLLETTINI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AGOS BOLLE",
+                            "resource": {
+                                "id": 12272,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 248,
+                            "nodeName": "SANTANDER",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SANTANDER",
+                            "resource": {
+                                "id": 12301,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 257,
+                            "nodeName": "FIDITALIA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "FIDITALIA",
+                            "resource": {
+                                "id": 12179,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "SKY",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 77,
+                            "nodeName": "SKY FATTURE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SKY FATTUR",
+                            "resource": {
+                                "id": 18028,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 212,
+                            "nodeName": "SKY DEPOSITO CAUZIONALE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SKY DEPOSI",
+                            "resource": {
+                                "id": 13340,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 73,
+                            "nodeName": "SKY ATTIVAZIONI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SKY ATTIVA",
+                            "resource": {
+                                "id": 13339,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 2,
+                    "nodeName": "Biglietteria",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 0,
+                            "nodeName": "TRENITALIA MENÙ",
+                            "nodeType": "group",
+                            "groupType": "tabGroup",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "resource": {
+                                "id": 12298,
+                                "type": "image",
+                                "version": "1.1.0"
+                            },
+                            "nodes": [
+                                {
+                                    "nodeId": 213,
+                                    "nodeName": "EMISSIONI",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "TRENITALIA",
+                                    "resource": {
+                                        "id": 13439,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    }
+                                },
+                                {
+                                    "nodeId": 244,
+                                    "nodeName": "ANNULLO",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "TRENITALIA"
+                                },
+                                {
+                                    "nodeId": 245,
+                                    "nodeName": "CAMBIO DATA",
+                                    "nodeType": "service",
+                                    "flowType": "PRIMARY",
+                                    "status": "ACTIVE",
+                                    "startValidityTs": 1527066836000,
+                                    "endValidityTs": 1727066836000,
+                                    "tag": "TRENITALIA",
+                                    "resource": {
+                                        "id": 12298,
+                                        "type": "image",
+                                        "version": "1.1.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "nodeId": 167,
+                            "nodeName": "PLUSERVICE",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "PLUSERVICE",
+                            "resource": {
+                                "id": 13347,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 247,
+                            "nodeName": "MARINO Bus",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "MARINO",
+                            "resource": {
+                                "id": 12300,
+                                "type": "image",
+                                "version": "1.1.0"
+                            }
+                        },
+                        {
+                            "nodeId": 83,
+                            "nodeName": "IBUS",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "IBUS",
+                            "resource": {
+                                "id": 12225,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 243,
+                            "nodeName": "INTERSAJ",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "IVU",
+                            "resource": {
+                                "id": 12297,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 246,
+                            "nodeName": "BIG-BUS",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "SAIS",
+                            "resource": {
+                                "id": 13436,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 201,
+                            "nodeName": "BALTOUR",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "BALTOUR",
+                            "resource": {
+                                "id": 12274,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "Assicurazioni",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 186,
+                            "nodeName": "FACILE.IT",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "FACILE IT",
+                            "resource": {
+                                "id": 12267,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 219,
+                            "nodeName": "QUIXA",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "QUIXA",
+                            "resource": {
+                                "id": 12287,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 231,
+                            "nodeName": "LINEAR",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "LR",
+                            "resource": {
+                                "id": 12288,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 74,
+                            "nodeName": "ZURICH CONNECT",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ZURICH CON",
+                            "resource": {
+                                "id": 12216,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "Altri pagamenti",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 253,
+                            "nodeName": "ATM PIN AREA C",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "ATM PIN AR Area C",
+                            "resource": {
+                                "id": 12347,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 200,
+                            "nodeName": "ALLOPASS-HYPAY",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "HIPAY",
+                            "resource": {
+                                "id": 12273,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "nodeId": 0,
+                    "nodeName": "Donazioni",
+                    "nodeType": "group",
+                    "groupType": "menuRow",
+                    "status": "ACTIVE",
+                    "startValidityTs": 1527066836000,
+                    "endValidityTs": 1727066836000,
+                    "nodes": [
+                        {
+                            "nodeId": 70,
+                            "nodeName": "AIRC DONAZIONI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "AIRC DONAZIONI",
+                            "resource": {
+                                "id": 20398,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        },
+                        {
+                            "nodeId": 72,
+                            "nodeName": "UMBERTO VERONESI",
+                            "nodeType": "service",
+                            "flowType": "PRIMARY",
+                            "status": "ACTIVE",
+                            "startValidityTs": 1527066836000,
+                            "endValidityTs": 1727066836000,
+                            "tag": "VERONESI",
+                            "resource": {
+                                "id": 20398,
+                                "type": "image",
+                                "version": "1.0.0"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

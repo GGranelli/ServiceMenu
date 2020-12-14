@@ -1,0 +1,54 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>EsercizioServiceMenu</groupId>
+  <artifactId>EsercizioServiceMenu</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <dependencies>
+  	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+	<dependency>
+	    <groupId>org.apache.poi</groupId>
+	    <artifactId>poi</artifactId>
+	    <version>4.1.2</version>
+	</dependency>
+
+	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+	<dependency>
+	    <groupId>org.apache.poi</groupId>
+	    <artifactId>poi-ooxml</artifactId>
+	    <version>4.1.2</version>
+	</dependency>
+	
+  </dependencies>
+
+  
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      	<plugin>
+        	<artifactId>maven-compiler-plugin</artifactId>
+        	<version>3.8.1</version>
+        	<configuration>
+          		<release>11</release>
+        	</configuration>
+      	</plugin>
+      	<plugin>
+	      <!-- Build an executable JAR -->
+	      <groupId>org.apache.maven.plugins</groupId>
+	      <artifactId>maven-jar-plugin</artifactId>
+	      <version>3.1.0</version>
+	      <configuration>
+	        <archive>
+	          <manifest>
+	            <addClasspath>true</addClasspath>
+	            <classpathPrefix>lib/</classpathPrefix>
+	            <mainClass>it.omicron.esercizio.ServiceMenu</mainClass>
+	          </manifest>
+	        </archive>
+	      </configuration>
+    	</plugin>
+    </plugins>
+  </build>
+  
+</project>
