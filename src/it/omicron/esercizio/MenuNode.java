@@ -4,7 +4,6 @@ import java.util.List;
 
 public class MenuNode {
 	
-	private int depth;
 	private int nodeId;
 	private String nodeName;
 	private String nodeType;
@@ -58,15 +57,6 @@ public class MenuNode {
 		return nodes;
 	}
 	
-	public int getDepth()
-	{
-		return depth;
-	}
-	
-	public void setDepth(int i)
-	{
-		depth=i;
-	}
 	
 	
 	
