@@ -23,7 +23,6 @@ import com.google.gson.JsonSyntaxException;
 
 public class ServiceMenu 
 {
-	public static File separator;
 	private static int depth=0;
 	private static int lastDepth=0;
 	private static int counter=0;
@@ -129,7 +128,7 @@ public class ServiceMenu
 		XSSFWorkbook wb = new XSSFWorkbook();
 		String inputFile,config,outputFile;
 		
-		char sep = separator.separatorChar;
+		char sep = File.separatorChar;
 
 		config = "."+sep+"config.properties";
 		properties.load(new FileInputStream(config));
